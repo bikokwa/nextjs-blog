@@ -23,8 +23,9 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Hi, I am <strong>Bikokwa</strong>. I am a software engineer. I have
-          knowledge in <strong>HTML</strong>,<strong>CSS</strong>, and{" "}
-          <strong>JavaScript</strong>. I am currently open for Junior Front End
+          knowledge in <strong>HTML</strong>, <strong>CSS</strong>, and{" "}
+          <strong>JavaScript</strong>. I am currently open for{" "}
+          <strong>Junior Front End </strong>
           Developer role.
         </p>
       </section>
